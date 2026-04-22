@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Lua fan
 <!--
 **PatAmigo0/PatAmigo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
