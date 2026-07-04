@@ -49,7 +49,7 @@
 <br>
 
 ## ▰▰▰ OPEN SOURCE ▰▰▰
-Outside of enterprise data engineering, my focus shifts to high-performance networking, state management, and low-level development.
+Outside of data engineering, my focus shifts to low-level development
 
 * **[LoomFramework](https://github.com/PatAmigo0/LoomFramework)** — A strictly-typed, high-throughput networking framework utilizing ByteNet and Luau
 * **[Systems Programming](https://github.com/PatAmigo0/Lib-CustomMenuInC)** — Developing native Windows API utilities and low-level console applications
