@@ -64,17 +64,7 @@ Outside of data engineering, my focus shifts to low-level development
 ## ▰▰▰ METRICS ▰▰▰
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatAmigo0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatAmigo0&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatAmigo0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165px" />
-</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834471-229dce00-a439-11eb-9ea2-145b23d91ebc.gif" width="100%">
-  <br/>
-  
-  <img src="https://media.giphy.com/media/V8fV8EALN7Y7S/giphy.gif" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;" />
-</div>
