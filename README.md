@@ -9,7 +9,7 @@ Building scalable data architectures, robust ELT/ETL pipelines and distributed<b
 <a href="https://discord.com/users/tohun"><img src="https://img.shields.io/badge/Discord-tohun-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" /></a>
 <img src="https://img.shields.io/badge/alias-tohue-2DD4BF?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/break.svg" width="100%" />
 
 <img src="https://img.shields.io/badge/%20-CORE%20EXPERTISE-2DD4BF?style=for-the-badge&labelColor=0D1117" />
 
@@ -44,7 +44,7 @@ Building scalable data architectures, robust ELT/ETL pipelines and distributed<b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/break.svg" width="100%" />
 
 <img src="https://img.shields.io/badge/%20-OPEN%20SOURCE-D946EF?style=for-the-badge&labelColor=0D1117" />
 
@@ -60,7 +60,7 @@ Outside data engineering, my focus shifts to low-level development.
 <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/PatAmigo0/PatAmigo0/main/assets/break.svg" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatAmigo0&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=D946EF&currStreakLabel=2DD4BF" height="170" />
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=PatAmigo0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF" height="170" />
