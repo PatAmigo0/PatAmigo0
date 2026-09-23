@@ -50,8 +50,6 @@ Coding for fun
 
 </div>
 
-Projects:
-
 * **[LoomFramework](https://github.com/PatAmigo0/LoomFramework)** - strictly-typed, high-throughput networking framework on ByteNet and Luau
 * **[Lib-CustomMenuInC](https://github.com/PatAmigo0/Lib-CustomMenuInC)** - native Windows API utility
 
