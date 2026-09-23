@@ -30,7 +30,7 @@ Building scalable data architectures, robust ELT/ETL pipelines and distributed<b
 </td>
 <td width="50%" valign="top" align="center">
 
-**`DEVOPS`**
+**`CLOUD AND DEVOPS`**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -50,10 +50,10 @@ Building scalable data architectures, robust ELT/ETL pipelines and distributed<b
 
 </div>
 
-Outside data engineering, my focus shifts to low-level development.
+Projects:
 
-* **[LoomFramework](https://github.com/PatAmigo0/LoomFramework)** — strictly-typed, high-throughput networking framework on ByteNet and Luau
-* **[Lib-CustomMenuInC](https://github.com/PatAmigo0/Lib-CustomMenuInC)** — native Windows API utilities and low-level console applications
+* **[LoomFramework](https://github.com/PatAmigo0/LoomFramework)** - strictly-typed, high-throughput networking framework on ByteNet and Luau
+* **[Lib-CustomMenuInC](https://github.com/PatAmigo0/Lib-CustomMenuInC)** - native Windows API utility
 
 <div align="center">
 
