@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:2DD4BF,100:D946EF&text=PatAmigo0&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Data%20Engineering%20%C2%B7%20Distributed%20Systems&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:2DD4BF,100:D946EF&text=PatAmigo0&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Cat%20lover&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=%3E_+Data+Engineer;%3E_+SYSTEM_READY_..." alt="Typing SVG" /></a>
 
-Building scalable data architectures, robust ELT/ETL pipelines and distributed<br>systems. Complex data workflows and infrastructure for high-load environments.
+Coding for fun
 
 <a href="https://discord.com/users/tohun"><img src="https://img.shields.io/badge/Discord-tohun-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" /></a>
 <img src="https://img.shields.io/badge/alias-tohue-2DD4BF?style=for-the-badge&labelColor=0D1117" />
