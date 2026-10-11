@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:2DD4BF,100:D946EF&text=PatAmigo0&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Cat%20lover&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=%3E_+Data+Engineer;%3E_+SYSTEM_READY_..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=%3E_+Noob+_;%3E_+SYSTEM_READY_...+For+Something" alt="Typing SVG" /></a>
 
 Coding for fun
 
